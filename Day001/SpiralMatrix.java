@@ -1,4 +1,4 @@
-package Day002;
+package Day001;
 import java.util.*;
 public class SpiralMatrix {
     
